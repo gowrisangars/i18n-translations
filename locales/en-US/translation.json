@@ -10,5 +10,23 @@
 	  "or": "Or",
       "signInWith": "Sign in with"
     }
-  }
+	
+  },
+  "forgotPassword": {
+		"title": "Forgot password",
+		"description": " Enter the email address you used when you joined and we'll send you instructions to reset your password.<br /><br />For security reasons, we do NOT store your password. So rest assured that we will never send your password via email.",
+		"forgetPasswordForm":{
+		"email":{"label": "Email","placeholder":"Enter your email."},
+		"continue":{"label": "Continue"}
+		}
+   },
+   
+   "changePassword": {
+		"title": "Change password",
+		"description": " Enter the email address you used when you joined and we'll send you instructions to reset your password.<br /><br />For security reasons, we do NOT store your password. So rest assured that we will never send your password via email.",
+		"changePasswordForm":{
+		"email":{"label": "Email","placeholder":"Enter your email."},
+		"continue":{"label": "Continue"}
+		}
+   }
 }
