@@ -10,5 +10,23 @@
       "or": "Ou",
       "signInWith": "Se connecter avec"
     }
+  },
+  "forgotPassword": {
+    "title": "Mot de passe oublié",
+    "description": " Entrez l’adresse courriel que vous avez utilisée lors de votre inscription et nous vous enverrons les instructions pour réinitialiser votre mot de passe.<br /><br />Pour des raisons de sécurité, nous NE conservons PAS votre mot de passe. Soyez assuré que nous ne vous enverrons jamais votre mot de passe par courriel.",
+    "forgotPasswordForm": {
+      "email": { "label": "Courriel", "placeholder": "Entrez votre adresse courriel." },
+      "continue": { "label": "Continuer" },
+      "back": { "label": "Retour" }
+    }
+  },
+  "changePassword": {
+    "title": "Changer le mot de passe",
+    "description": " Entrez l’adresse courriel que vous avez utilisée lors de votre inscription et nous vous enverrons les instructions pour réinitialiser votre mot de passe.<br /><br />Pour des raisons de sécurité, nous NE conservons PAS votre mot de passe. Soyez assuré que nous ne vous enverrons jamais votre mot de passe par courriel.",
+    "changePasswordForm": {
+      "email": { "label": "Courriel", "placeholder": "Entrez votre adresse courriel." },
+      "continue": { "label": "Continuer" },
+      "back": { "label": "Retour" }
+    }
   }
 }

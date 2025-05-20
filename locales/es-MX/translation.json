@@ -10,5 +10,23 @@
       "or": "O",
       "signInWith": "Iniciar sesión con"
     }
+  },
+  "forgotPassword": {
+    "title": "¿Olvidaste tu contraseña?",
+    "description": " Ingresa la dirección de correo electrónico que usaste al registrarte y te enviaremos instrucciones para restablecer tu contraseña.<br /><br />Por motivos de seguridad, NO almacenamos tu contraseña. Así que ten la seguridad de que nunca enviaremos tu contraseña por correo electrónico.",
+    "forgotPasswordForm": {
+      "email": { "label": "Correo electrónico", "placeholder": "Ingresa tu correo electrónico." },
+      "continue": { "label": "Continuar" },
+      "back": { "label": "Atrás" }
+    }
+  },
+  "changePassword": {
+    "title": "Cambiar contraseña",
+    "description": " Ingresa la dirección de correo electrónico que usaste al registrarte y te enviaremos instrucciones para restablecer tu contraseña.<br /><br />Por motivos de seguridad, NO almacenamos tu contraseña. Así que ten la seguridad de que nunca enviaremos tu contraseña por correo electrónico.",
+    "changePasswordForm": {
+      "email": { "label": "Correo electrónico", "placeholder": "Ingresa tu correo electrónico." },
+      "continue": { "label": "Continuar" },
+      "back": { "label": "Atrás" }
+    }
   }
 }

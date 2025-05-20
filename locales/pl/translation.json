@@ -10,5 +10,23 @@
       "or": "Lub",
       "signInWith": "Zaloguj się przez"
     }
+  },
+  "forgotPassword": {
+    "title": "Zapomniałeś hasła",
+    "description": " Wprowadź adres e-mail, którego użyłeś podczas rejestracji, a my wyślemy Ci instrukcje dotyczące resetowania hasła.<br /><br />Ze względów bezpieczeństwa NIE przechowujemy Twojego hasła. Możesz więc być spokojny, że nigdy nie wyślemy Twojego hasła e-mailem.",
+    "forgotPasswordForm": {
+      "email": { "label": "Email", "placeholder": "Wpisz swój email." },
+      "continue": { "label": "Kontynuuj" },
+      "back": { "label": "Wstecz" }
+    }
+  },
+  "changePassword": {
+    "title": "Zmień hasło",
+    "description": " Wprowadź adres e-mail, którego użyłeś podczas rejestracji, a my wyślemy Ci instrukcje dotyczące resetowania hasła.<br /><br />Ze względów bezpieczeństwa NIE przechowujemy Twojego hasła. Możesz więc być spokojny, że nigdy nie wyślemy Twojego hasła e-mailem.",
+    "changePasswordForm": {
+      "email": { "label": "Email", "placeholder": "Wpisz swój email." },
+      "continue": { "label": "Kontynuuj" },
+      "back": { "label": "Wstecz" }
+    }
   }
 }
