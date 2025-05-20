@@ -3,10 +3,11 @@
     "title": "Where remote teams <LineBreak /> get work done",
     "description": "Every login opens the door to new possibilities. <br /> Make the most of today! <br />",
     "loginForm": {
-      "email": "Email",
-      "password": "Password",
+      "email":{"label": "Email","placeholder":"Enter your email."},
+      "password": {"label": "Password","placeholder":"Enter your password."},
       "forgotPassword": "Forgot password?",
       "signIn": "Sign in",
+	  "or": "Or",
       "signInWith": "Sign in with"
     }
   }
