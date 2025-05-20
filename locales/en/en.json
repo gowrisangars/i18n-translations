@@ -1,0 +1,13 @@
+{
+  "login": {
+    "title": "Where remote teams <LineBreak /> get work done",
+    "description": "Every login opens the door to new possibilities. <br /> Make the most of today! <br />",
+	"loginForm":{
+		"email": "Email",
+		"password": "Password",
+		"forgotPassword": "Forgot password?",
+		"signIn": "Sign in",
+		"signInWith": "Sign in with",
+	}
+  }
+}
