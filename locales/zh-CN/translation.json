@@ -1,0 +1,14 @@
+{
+  "login": {
+    "title": "远程团队 <LineBreak /> 开始工作的地方",
+    "description": "每次登录都开启新的可能。<br /> 把握今天！<br />",
+    "loginForm": {
+      "email": { "label": "邮箱", "placeholder": "请输入您的邮箱。" },
+      "password": { "label": "密码", "placeholder": "请输入您的密码。" },
+      "forgotPassword": "忘记密码？",
+      "signIn": "登录",
+      "or": "或",
+      "signInWith": "使用以下方式登录"
+    }
+  }
+}

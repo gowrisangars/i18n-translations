@@ -1,0 +1,14 @@
+{
+  "login": {
+    "title": "Tam, gdzie zdalne zespoły <LineBreak /> wykonują swoją pracę",
+    "description": "Każde logowanie otwiera drzwi do nowych możliwości. <br /> Wykorzystaj dzisiejszy dzień! <br />",
+    "loginForm": {
+      "email": { "label": "Email", "placeholder": "Wpisz swój email." },
+      "password": { "label": "Hasło", "placeholder": "Wpisz swoje hasło." },
+      "forgotPassword": "Zapomniałeś hasła?",
+      "signIn": "Zaloguj się",
+      "or": "Lub",
+      "signInWith": "Zaloguj się przez"
+    }
+  }
+}

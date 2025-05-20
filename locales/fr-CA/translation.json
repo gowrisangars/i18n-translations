@@ -1,0 +1,14 @@
+{
+  "login": {
+    "title": "Là où les équipes à distance <LineBreak /> accomplissent leur travail",
+    "description": "Chaque connexion ouvre la porte à de nouvelles possibilités. <br /> Profitez pleinement d’aujourd’hui! <br />",
+    "loginForm": {
+      "email": { "label": "Courriel", "placeholder": "Entrez votre courriel." },
+      "password": { "label": "Mot de passe", "placeholder": "Entrez votre mot de passe." },
+      "forgotPassword": "Mot de passe oublié?",
+      "signIn": "Se connecter",
+      "or": "Ou",
+      "signInWith": "Se connecter avec"
+    }
+  }
+}

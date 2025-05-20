@@ -1,0 +1,14 @@
+{
+  "login": {
+    "title": "Donde los equipos remotos <LineBreak /> hacen su trabajo",
+    "description": "Cada inicio de sesión abre la puerta a nuevas posibilidades. <br /> ¡Aprovecha el día! <br />",
+    "loginForm": {
+      "email": { "label": "Correo electrónico", "placeholder": "Introduce tu correo electrónico." },
+      "password": { "label": "Contraseña", "placeholder": "Introduce tu contraseña." },
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "signIn": "Iniciar sesión",
+      "or": "O",
+      "signInWith": "Iniciar sesión con"
+    }
+  }
+}
