@@ -35,9 +35,10 @@
     "menu": {
       "dashboard": "Tableau de bord",
       "search": "Recherche",
+	  "sdsList" : "Liste des FDS",
       "userManagement": "Gestion des utilisateurs",
       "settings": "Paramètres",
-      "Feedback": "Retour d'information"
+      "feedback": "Retour d'information"
     },
     "profile": {
       "title": "Compte",

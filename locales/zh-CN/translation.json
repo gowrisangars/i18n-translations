@@ -35,9 +35,10 @@
     "menu": {
       "dashboard": "仪表盘",
       "search": "搜索",
+	  "sdsList" : "SDS 列表",
       "userManagement": "用户管理",
       "settings": "设置",
-      "Feedback": "反馈"
+      "feedback": "反馈"
     },
     "profile": {
       "title": "账户",

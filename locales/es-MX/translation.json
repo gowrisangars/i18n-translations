@@ -35,9 +35,10 @@
     "menu": {
       "dashboard": "Tablero",
       "search": "Buscar",
+	  "sdsList" : "Lista de SDS",
       "userManagement": "Gestión de Usuarios",
       "settings": "Configuración",
-      "Feedback": "Retroalimentación"
+      "feedback": "Retroalimentación"
     },
     "profile": {
       "title": "Cuenta",

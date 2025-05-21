@@ -35,9 +35,10 @@
     "menu": {
       "dashboard": "Panel",
       "search": "Szukaj",
+	  "sdsList" : "Lista SDS",
       "userManagement": "Zarządzanie użytkownikami",
       "settings": "Ustawienia",
-      "Feedback": "Opinie"
+      "feedback": "Opinie"
     },
     "profile": {
       "title": "Konto",

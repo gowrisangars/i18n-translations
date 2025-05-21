@@ -37,9 +37,10 @@
 		"menu":{
 			"dashboard" : "Dashboard",
 			"search" : "Search",
+			"sdsList" : "SDS List",
 			"userManagement" : "User Management",
 			"settings" : "Settings",
-			"Feedback" : "Feedback"
+			"feedback" : "Feedback"
 		},
 		"profile":{
 			"title" : "Account",
