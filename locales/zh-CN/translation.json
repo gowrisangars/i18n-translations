@@ -30,5 +30,91 @@
       "continue": { "label": "继续" },
       "back": { "label": "返回" }
     }
+  },
+   "sidebar": {
+    "menu": {
+      "dashboard": "仪表盘",
+      "search": "搜索",
+      "userManagement": "用户管理",
+      "settings": "设置",
+      "Feedback": "反馈"
+    },
+    "profile": {
+      "title": "账户",
+      "settings": "设置",
+      "logout": "登出"
+    }
+  },
+  "pages": {
+    "dashboard": {
+      "title": "仪表盘",
+      "subTitle1": "Marie 的 SDS 洞察",
+      "filter": {
+        "data": ["全部时间", "最近7天", "本月", "上月", "今年"]
+      },
+      "countCard1": { "title": "等待 SDS" },
+      "countCard2": { "title": "SDS 处理中" },
+      "countCard3": { "title": "等待审核" },
+      "countCard4": { "title": "验证完成" },
+      "countCard5": { "title": "验证暂停" },
+      "countCard6": { "title": "验证失败" },
+      "countCard7": { "title": "已归档" },
+      "chart1": {
+        "title": "收到的 SDS 请求",
+        "graphTitle": "SDS 请求数",
+        "labelForYAxis": "SDS 请求数量"
+      },
+      "chart2": {
+        "title": "提取准确率与人工干预",
+        "data": [
+          { "key": "自动化", "value": "计算中..." },
+          { "key": "人工干预", "value": "计算中..." }
+        ]
+      },
+      "subTitle2": "Marie 的其他指标",
+      "card1": {
+        "title": "Marie 的表现",
+        "data": [
+          { "key": "平均响应时间", "value": "计算中..." },
+          { "key": "平均处理时间", "value": "计算中..." }
+        ]
+      },
+      "card2": {
+        "title": "处理的采购订单",
+        "data": [
+          { "key": "总处理采购订单数", "value": "分析中..." },
+          { "key": "今日处理采购订单数", "value": "分析中..." }
+        ]
+      },
+      "card3": {
+        "title": "通知",
+        "data": [
+          { "key": "提醒总数", "value": "分析中..." },
+          { "key": "今日发送提醒邮件", "value": "分析中..." }
+        ]
+      },
+      "card4": {
+        "title": "Marie 的状态",
+        "data": [
+          { "key": "每日运行时间", "value": "计算中..." },
+          { "key": "每日使用时间", "value": "计算中..." },
+          { "key": "每日空闲时间", "value": "计算中..." }
+        ]
+      },
+      "card5": {
+        "title": "识别的新产品",
+        "data": [
+          { "key": "新识别产品总数", "value": "分析中..." },
+          { "key": "今日识别的新产品", "value": "分析中..." }
+        ]
+      },
+      "card6": {
+        "title": "即将过期和过时的 SDS",
+        "data": [
+          { "key": "过时的 SDS", "value": "分析中..." },
+          { "key": "15 天内即将过期的 SDS", "value": "分析中..." }
+        ]
+      }
+    }
   }
 }

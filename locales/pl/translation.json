@@ -30,5 +30,91 @@
       "continue": { "label": "Kontynuuj" },
       "back": { "label": "Wstecz" }
     }
+  },
+  "sidebar": {
+    "menu": {
+      "dashboard": "Panel",
+      "search": "Szukaj",
+      "userManagement": "Zarządzanie użytkownikami",
+      "settings": "Ustawienia",
+      "Feedback": "Opinie"
+    },
+    "profile": {
+      "title": "Konto",
+      "settings": "Ustawienia",
+      "logout": "Wyloguj się"
+    }
+  },
+  "pages": {
+    "dashboard": {
+      "title": "Panel",
+      "subTitle1": "Wgląd w SDS Marie",
+      "filter": {
+        "data": ["Cały czas", "Ostatnie 7 dni", "Bieżący miesiąc", "Poprzedni miesiąc", "Bieżący rok"]
+      },
+      "countCard1": { "title": "Oczekuje na SDS" },
+      "countCard2": { "title": "SDS w toku" },
+      "countCard3": { "title": "Oczekuje na przegląd" },
+      "countCard4": { "title": "Weryfikacja zakończona" },
+      "countCard5": { "title": "Weryfikacja wstrzymana" },
+      "countCard6": { "title": "Weryfikacja nieudana" },
+      "countCard7": { "title": "Zarchiwizowane" },
+      "chart1": {
+        "title": "Otrzymane zgłoszenia SDS",
+        "graphTitle": "Zgłoszenia SDS",
+        "labelForYAxis": "Liczba zgłoszeń SDS"
+      },
+      "chart2": {
+        "title": "Dokładność ekstrakcji vs interwencja ręczna",
+        "data": [
+          { "key": "Automatyzacja", "value": "Obliczanie..." },
+          { "key": "Interwencja ręczna", "value": "Obliczanie..." }
+        ]
+      },
+      "subTitle2": "Inne metryki Marie",
+      "card1": {
+        "title": "Wydajność Marie",
+        "data": [
+          { "key": "Średni czas odpowiedzi", "value": "Obliczanie..." },
+          { "key": "Średni czas przetwarzania", "value": "Obliczanie..." }
+        ]
+      },
+      "card2": {
+        "title": "Przetworzone PO",
+        "data": [
+          { "key": "Łącznie przetworzonych PO", "value": "Analiza..." },
+          { "key": "PO przetworzonych dzisiaj", "value": "Analiza..." }
+        ]
+      },
+      "card3": {
+        "title": "Powiadomienia",
+        "data": [
+          { "key": "Łączna liczba przypomnień", "value": "Analiza..." },
+          { "key": "Wysłane e-maile z przypomnieniem dziś", "value": "Analiza..." }
+        ]
+      },
+      "card4": {
+        "title": "Status Marie",
+        "data": [
+          { "key": "Czas aktywności / dzień", "value": "Obliczanie..." },
+          { "key": "Wykorzystany czas / dzień", "value": "Obliczanie..." },
+          { "key": "Czas bezczynności / dzień", "value": "Obliczanie..." }
+        ]
+      },
+      "card5": {
+        "title": "Nowe produkty zidentyfikowane",
+        "data": [
+          { "key": "Łącznie nowych produktów", "value": "Analiza..." },
+          { "key": "Zidentyfikowane dzisiaj", "value": "Analiza..." }
+        ]
+      },
+      "card6": {
+        "title": "Wygasające i nieaktualne SDS",
+        "data": [
+          { "key": "Nieaktualne SDS", "value": "Analiza..." },
+          { "key": "SDS wygasające w ciągu 15 dni", "value": "Analiza..." }
+        ]
+      }
+    }
   }
 }

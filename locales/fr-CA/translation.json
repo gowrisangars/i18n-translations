@@ -30,5 +30,105 @@
       "continue": { "label": "Continuer" },
       "back": { "label": "Retour" }
     }
+  },
+  "sidebar": {
+    "menu": {
+      "dashboard": "Tableau de bord",
+      "search": "Recherche",
+      "userManagement": "Gestion des utilisateurs",
+      "settings": "Paramètres",
+      "Feedback": "Retour d'information"
+    },
+    "profile": {
+      "title": "Compte",
+      "settings": "Paramètres",
+      "logout": "Déconnexion"
+    }
+  },
+  "pages": {
+    "dashboard": {
+      "title": "Tableau de bord",
+      "subTitle1": "Aperçus SDS de Marie",
+      "filter": {
+        "data": ["Tout le temps", "7 derniers jours", "Mois en cours", "Mois précédent", "Année en cours"]
+      },
+      "countCard1": {
+        "title": "En attente de SDS"
+      },
+      "countCard2": {
+        "title": "SDS en cours"
+      },
+      "countCard3": {
+        "title": "En attente de révision"
+      },
+      "countCard4": {
+        "title": "Validation terminée"
+      },
+      "countCard5": {
+        "title": "Validation en attente"
+      },
+      "countCard6": {
+        "title": "Échec de la vérification"
+      },
+      "countCard7": {
+        "title": "Archivé"
+      },
+      "chart1": {
+        "title": "Demandes de SDS reçues",
+        "graphTitle": "Demandes de SDS",
+        "labelForYAxis": "Nombre de demandes de SDS"
+      },
+      "chart2": {
+        "title": "Précision de l'extraction vs Intervention manuelle",
+        "data": [
+          { "key": "Automatisation", "value": "Calcul en cours..." },
+          { "key": "Intervention manuelle", "value": "Calcul en cours..." }
+        ]
+      },
+      "subTitle2": "Autres métriques de Marie",
+      "card1": {
+        "title": "Performance de Marie",
+        "data": [
+          { "key": "Temps de réponse moyen", "value": "Calcul en cours..." },
+          { "key": "Temps de traitement moyen", "value": "Calcul en cours..." }
+        ]
+      },
+      "card2": {
+        "title": "PO traités",
+        "data": [
+          { "key": "Total des PO traités", "value": "Analyse en cours..." },
+          { "key": "PO traités aujourd'hui", "value": "Analyse en cours..." }
+        ]
+      },
+      "card3": {
+        "title": "Notifications",
+        "data": [
+          { "key": "Total des alertes de rappel", "value": "Analyse en cours..." },
+          { "key": "Courriels de rappel envoyés aujourd'hui", "value": "Analyse en cours..." }
+        ]
+      },
+      "card4": {
+        "title": "Statut de Marie",
+        "data": [
+          { "key": "Temps actif/jour", "value": "Calcul en cours..." },
+          { "key": "Temps utilisé/jour", "value": "Calcul en cours..." },
+          { "key": "Temps inactif/jour", "value": "Calcul en cours..." }
+        ]
+      },
+      "card5": {
+        "title": "Nouveaux produits identifiés",
+        "data": [
+          { "key": "Total des nouveaux produits identifiés", "value": "Analyse en cours..." },
+          { "key": "Nouveaux produits identifiés aujourd'hui", "value": "Analyse en cours..." }
+        ]
+      },
+      "card6": {
+        "title": "SDS expirés et obsolètes",
+        "data": [
+          { "key": "SDS obsolètes", "value": "Analyse en cours..." },
+          { "key": "SDS expirant dans 15 jours", "value": "Analyse en cours..." }
+        ]
+      }
+    }
   }
 }

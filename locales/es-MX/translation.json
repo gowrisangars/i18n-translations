@@ -30,5 +30,105 @@
       "continue": { "label": "Continuar" },
       "back": { "label": "Atrás" }
     }
+  },
+  "sidebar": {
+    "menu": {
+      "dashboard": "Tablero",
+      "search": "Buscar",
+      "userManagement": "Gestión de Usuarios",
+      "settings": "Configuración",
+      "Feedback": "Retroalimentación"
+    },
+    "profile": {
+      "title": "Cuenta",
+      "settings": "Configuración",
+      "logout": "Cerrar sesión"
+    }
+  },
+  "pages": {
+    "dashboard": {
+      "title": "Tablero",
+      "subTitle1": "Perspectivas de SDS de Marie",
+      "filter": {
+        "data": ["Todo el tiempo", "Últimos 7 días", "Mes actual", "Mes anterior", "Año actual"]
+      },
+      "countCard1": {
+        "title": "Esperando SDS"
+      },
+      "countCard2": {
+        "title": "SDS en progreso"
+      },
+      "countCard3": {
+        "title": "Esperando revisión"
+      },
+      "countCard4": {
+        "title": "Validación completada"
+      },
+      "countCard5": {
+        "title": "Validación en espera"
+      },
+      "countCard6": {
+        "title": "Verificación fallida"
+      },
+      "countCard7": {
+        "title": "Archivado"
+      },
+      "chart1": {
+        "title": "Solicitudes de SDS recibidas",
+        "graphTitle": "Solicitudes de SDS",
+        "labelForYAxis": "N.º de solicitudes de SDS"
+      },
+      "chart2": {
+        "title": "Precisión de extracción vs Intervención manual",
+        "data": [
+          { "key": "Automatización", "value": "Calculando..." },
+          { "key": "Intervención manual", "value": "Calculando..." }
+        ]
+      },
+      "subTitle2": "Otras métricas de Marie",
+      "card1": {
+        "title": "Rendimiento de Marie",
+        "data": [
+          { "key": "Tiempo de respuesta promedio", "value": "Calculando..." },
+          { "key": "Tiempo de procesamiento promedio", "value": "Calculando..." }
+        ]
+      },
+      "card2": {
+        "title": "PO procesados",
+        "data": [
+          { "key": "Total de PO procesados", "value": "Analizando..." },
+          { "key": "PO procesados hoy", "value": "Analizando..." }
+        ]
+      },
+      "card3": {
+        "title": "Notificaciones",
+        "data": [
+          { "key": "Total de alertas de recordatorio", "value": "Analizando..." },
+          { "key": "Correos de recordatorio enviados hoy", "value": "Analizando..." }
+        ]
+      },
+      "card4": {
+        "title": "Estado de Marie",
+        "data": [
+          { "key": "Tiempo activo/día", "value": "Calculando..." },
+          { "key": "Tiempo utilizado/día", "value": "Calculando..." },
+          { "key": "Tiempo inactivo/día", "value": "Calculando..." }
+        ]
+      },
+      "card5": {
+        "title": "Nuevos productos identificados",
+        "data": [
+          { "key": "Total de nuevos productos identificados", "value": "Analizando..." },
+          { "key": "Nuevos productos identificados hoy", "value": "Analizando..." }
+        ]
+      },
+      "card6": {
+        "title": "SDS caducados y obsoletos",
+        "data": [
+          { "key": "SDS obsoletos", "value": "Analizando..." },
+          { "key": "SDS que caducan en 15 días", "value": "Analizando..." }
+        ]
+      }
+    }
   }
 }
