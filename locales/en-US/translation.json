@@ -81,7 +81,7 @@
 				"labelForYAxis":"No. of SDS Requests"
 			},
 			"chart2" : {
-				"title":"Extraction Accuracy Vs Manual Intervention"
+				"title":"Extraction Accuracy Vs Manual Intervention",
 				"data":
 				[
 					{"key":"Automation", "value":"Calculating..."},
