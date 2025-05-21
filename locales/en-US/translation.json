@@ -32,5 +32,112 @@
 		"continue":{"label": "Continue"},
 		"back":{"label": "Back"}
 		}
+   },
+   "sidebar":{ 
+		"menu":{
+			"dashboard" : "Dashboard",
+			"search" : "Search",
+			"userManagement" : "User Management",
+			"settings" : "Settings",
+			"Feedback" : "Feedback"
+		},
+		"profile":{
+			"title" : "Account",
+			"settings" : "Settings",
+			"logout": "Logout"
+		}
+   },
+   "pages":{ 
+		"dashboard":{
+			"title" : "Dashboard",
+			"subTitle1" : "Marie's SDS Insights",
+			"filter": {
+				"data":["All Time", "Last 7 Days", "Current Month", "Previous Month", "Current Year"]
+			},
+			"countCard1":{
+				"title":"Waiting for SDS"
+			},
+			"countCard2":{
+				"title":"SDS in Progress"
+			},
+			"countCard3":{
+				"title":"Waiting for Review"
+			},
+			"countCard4":{
+				"title":"Validation Completed"
+			},
+			"countCard5":{
+				"title":"Validation On Hold"
+			},
+			"countCard6":{
+				"title":"Verification Failed"
+			},
+			"countCard7":{
+				"title":"Archived"
+			},
+			"chart1": {
+				"title":"SDS Requests Received",
+				"graphTitle":"SDS Requests",
+				"labelForYAxis":"No. of SDS Requests"
+			},
+			"chart2" : {
+				"title":"Extraction Accuracy Vs Manual Intervention"
+				"data":
+				[
+					{"key":"Automation", "value":"Calculating..."},
+					{"key":"Manual Intervention", "value":"Calculating..."}
+				]
+			},
+			"subTitle2" : "Marie's Other Metrics",
+			"card1" : {
+				"title":"Marie's Performance", 
+				"data":[
+					{"key":"Average Response Time", "value":"Calculating..."},
+					{"key":"Average Processing Time", "value":"Calculating..."}
+				]
+			},
+			"card2" : {
+				"title":"PO Processed", 
+				"data":[
+					{"key":"Total PO Processed", "value":"Analyzing..."},
+					{"key":"PO Processed Today", "value":"Analyzing..."}
+				]
+			},
+			"card3" : {
+				"title":"Notifications", 
+				"data":[
+					{"key":"Total Reminder Alerts", "value":"Analyzing..."},
+					{"key":"Reminder Emails Sent Today", "value":"Analyzing..."}
+				]
+			},
+			"card4" : {
+				"title":"Marie's Status", 
+				"data":[
+					{"key":"Up Time/Day", "value":"Calculating..."},
+					{"key":"Utilized Time/Day", "value":"Calculating..."},
+					{"key":"Idle Time/Day", "value":"Calculating..."}
+				]
+			},
+			"card5" : {
+				"title":"New Products Identified", 
+				"data":[
+					{"key":"Total New Products Identified", "value":"Analyzing..."},
+					{"key":"New Products Identified Today", "value":"Analyzing..."}
+				]
+			},
+			"card6" : {
+				"title":"Expiring and Outdated SDS", 
+				"data":[
+					{"key":"Outdated SDS", "value":"Analyzing..."},
+					{"key":"SDS Expiring in 15 days", "value":"Analyzing..."}
+				]
+			},
+		},
+		"profile":{
+			"title" : "Account",
+			"settings" : "Settings",
+			"logout": "Logout"
+		}
    }
+   
 }
