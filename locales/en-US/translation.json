@@ -131,12 +131,7 @@
 					{"key":"Outdated SDS", "value":"Analyzing..."},
 					{"key":"SDS Expiring in 15 days", "value":"Analyzing..."}
 				]
-			},
-		},
-		"profile":{
-			"title" : "Account",
-			"settings" : "Settings",
-			"logout": "Logout"
+			}
 		}
    }
    
